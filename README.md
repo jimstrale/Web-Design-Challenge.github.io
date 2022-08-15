@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Web-Design-Challenge.github.io
 Homework 11
 
 I created a website by using visualizations that were created in previous activities.
